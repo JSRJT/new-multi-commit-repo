@@ -1,2 +1,2 @@
-Fisrt Line of the text File.
+Some Line of the text File.
 Added second line of text.
