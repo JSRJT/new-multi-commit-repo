@@ -1,2 +1,2 @@
-Some Line of the text File.
+Fisrt Line of the text File again Commited.
 Added second line of text.
